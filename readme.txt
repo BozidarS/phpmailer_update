@@ -1,5 +1,5 @@
-=== Plugin Name ===
-Contributors: Zvekan
+=== PHPMailer Updater ===
+Contributors: BozidarS
 Donate link: none
 Tags: phpmailer
 Requires at least: 4.0
